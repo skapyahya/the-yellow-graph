@@ -1,0 +1,6 @@
+framework module Pods_The_Yellow_Line {
+  umbrella header "Pods-The Yellow Line-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>947103933749-a8uc5v4mlap51bo3cbcfcnu2c0ld1bav.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.947103933749-a8uc5v4mlap51bo3cbcfcnu2c0ld1bav</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtIGVgq7wlVbLY7EaE0B1JR9puN4KngEE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>947103933749</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>yaluqman.The-Yellow-Graph</string>
+	<key>PROJECT_ID</key>
+	<string>theyellowgraph</string>
+	<key>STORAGE_BUCKET</key>
+	<string>theyellowgraph.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:947103933749:ios:29baf5ff7c77f364</string>
+	<key>DATABASE_URL</key>
+	<string>https://theyellowgraph.firebaseio.com</string>
+</dict>
+</plist>
